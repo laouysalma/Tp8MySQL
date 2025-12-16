@@ -1,0 +1,4 @@
+[{"id":1, "inscription_id":1, "date_examen":"2025-12-16", "score":15.5},
+ {"id":2, "inscription_id":2, "date_examen":"2025-12-16", "score":12.0},
+ {"id":3, "inscription_id":3, "date_examen":"2025-12-16", "score":18.0},
+ {"id":4, "inscription_id":4, "date_examen":"2025-12-16", "score":14.5}]
