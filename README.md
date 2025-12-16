@@ -301,6 +301,6 @@ SET character_set_client = @saved_cs_client;
 ```
 ## capture d'ecran :
 
-![image alt](https://github.com/laouysalma/Tp8MySQL/blob/main/Ex1.jpg?raw=true)
+![image alt](https://github.com/laouysalma/Tp8MySQL/blob/main/Ex.jpg?raw=true)
 
 ![image alt](https://github.com/laouysalma/Tp8MySQL/blob/main/Ex2.jpg?raw=true)
